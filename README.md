@@ -48,3 +48,4 @@ I’m a computer science student passionate about software engineering, machine 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahidt/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=X)](https://twitter.com/zahidterriquez)
+[![LeetCode](http://img.shields.io/badge/-LeetCode-ff8c00?logo=LeetCode&logoColor=white)](https://leetcode.com/u/zahidterriquez/)
